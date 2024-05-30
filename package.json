@@ -9,9 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "@mui/icons-material": "^5.15.18",
+    "@mui/material": "^5.15.18",
+    "@prisma/client": "^5.14.0",
+    "axios": "^1.7.2",
+    "mongoose": "^8.4.0",
+    "next": "14.2.3",
+    "pg": "^8.11.5",
+    "prisma": "^5.14.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-icons": "^5.2.1"
   },
   "devDependencies": {
     "postcss": "^8",
