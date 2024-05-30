@@ -18,7 +18,6 @@
     "@mui/material": "^5.15.18",
     "@prisma/client": "^5.14.0",
     "axios": "^1.7.2",
-    "mongoose": "^8.4.0",
     "next": "14.2.3",
     "pg": "^8.11.5",
     "prisma": "^5.14.0",

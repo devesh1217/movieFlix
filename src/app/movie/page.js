@@ -20,8 +20,8 @@ export default async function Movie() {
     };
 
     try{
-        // const data = await axios.request(options);
-        const res = await axios.get('http://localhost:8080/api/movies');
+        const res = await axios.request(options);
+        // const res = await axios.get('http://localhost:8080/api/movies');
         return (
             <div className='text-white flex justify-evenly items-stretch flex-wrap sm:px-42 px-10'>
                 {
