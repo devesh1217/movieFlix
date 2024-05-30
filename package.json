@@ -17,6 +17,7 @@
     "@mui/icons-material": "^5.15.18",
     "@mui/material": "^5.15.18",
     "@prisma/client": "^5.14.0",
+    "@vercel/postgres": "^0.8.0",
     "axios": "^1.7.2",
     "next": "14.2.3",
     "pg": "^8.11.5",
