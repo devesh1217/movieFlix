@@ -11,7 +11,6 @@ export const metadata = {
 export default function RootLayout({ children }) {
     return (
         <html lang="en">
-            <link rel="icon" type="image/x-icon" href="./favicon.ico" />
             <body className={'bg-gray-900'}>
                 <Header></Header>
                 {children}
